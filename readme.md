@@ -20,12 +20,12 @@ Arguments:
 
 *Horizontal and reversed (`python3 merge.py -r`)*
 
-![](https://i.imgur.com/mHmozOT.jpg?raw=true  =250x)
+![](https://i.imgur.com/mHmozOT.jpg?raw=true)
 
 *Vertical (`python3 merge.py -v`)*
 
-![](https://i.imgur.com/txEn4oX.jpg?raw=true  =250x)
+![](https://i.imgur.com/txEn4oX.jpg?raw=true)
 
 *Vertical and reversed (`python3 merge.py -r -v`)*
 
-![](https://i.imgur.com/kwpLrmJ.jpg?raw=true  =250x)
+![](https://i.imgur.com/kwpLrmJ.jpg?raw=true)
