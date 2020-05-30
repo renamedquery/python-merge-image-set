@@ -16,7 +16,7 @@ Arguments:
 
 *Horizontal (`python3 merge.py`)*
 
-![](https://i.imgur.com/hNWAoNu.jpg?raw=true =250x)
+![](https://i.imgur.com/hNWAoNu.jpg?raw=true)
 
 *Horizontal and reversed (`python3 merge.py -r`)*
 
